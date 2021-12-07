@@ -13,7 +13,7 @@ A place for asynchronous help on data and software in the ocean sciences communi
 * Search the repository for the question/topic of interest.
 * If nothing exists, add a ticket to describe your topic and include a Minimal Reproducible Example (MRE).
   * If a MRE is more unwieldy than can fit in the body of an issue, add MRE to `datasets/` via PR.
-* Iterate and document wit the community.
+* Iterate and document with the community.
 * Share!
 
 ## How to contribute?
