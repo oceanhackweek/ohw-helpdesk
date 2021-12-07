@@ -1,5 +1,5 @@
 # Welcome to OceanHackWeek Help Desk Contributing Guide
-Thank you for investing your time in contributing to our project!
+Thank you for taking the time to learn how to write questions that help us answer them together.
 
 ## How to contribute
 * [Search if this repository already contains something of interest.](https://docs.github.com/en/search-github/searching-on-github/searching-code)
