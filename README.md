@@ -3,7 +3,7 @@ OceanHackWeek Q&amp;As
 
 ## Purpose
 A place for asynchronous help on data and software in the ocean sciences community. 
-We plan to start scheduling roughly monthly drop in sessions where we can worth through these questions together.
+We plan to start scheduling monthly sessions where we can work through these questions together.
 
 ## Scope
 * Oceanographic data
